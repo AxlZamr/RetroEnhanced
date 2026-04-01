@@ -54,7 +54,7 @@ Diseñadas para adaptarse a cualquier tipo de catálogo, desde colecciones peque
 
 <p align="center">
   
-| Modo Gris | Modo Oscuro | Modo Blanco | Modo Colorido |
+| Modo Gris (Por defecto)| Modo Oscuro | Modo Blanco | Modo Colorido |
 | :--- | :--- | :--- | :--- |
 | ![IMG](screenshots/Interfaz-en-Gris/gray-menu.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-menu.png) | ![IMG](screenshots/Interfaz-en-Claro/white-menu.png)  |  ![IMG](screenshots/Interfaz-en-Colorido/colorful-menu.png) | 
 | ![IMG](screenshots/Interfaz-en-Gris/gray-detallado.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-detallado.png) | ![IMG](screenshots/Interfaz-en-Claro/white-detallado.png) | ![IMG](screenshots/Interfaz-en-Colorido/colorful-detallado.png) | 
