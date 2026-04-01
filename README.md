@@ -1,4 +1,4 @@
-# [Logo](https://github.com/AxlZamr/RetroEnhanced/blob/master/screenshots/imagen.png) 
+![Logo](screenshots/clearlogo.png) 
 
 [![Version](https://img.shields.io/badge/4.3.0-s?style=for-the-badge&logo=github&logoColor=ffffff&label=Versi%C3%B3n%20de%20RetroEnhanced&color=809CC9)
 ](https://github.com/tu-usuario/retroenhanced/releases)
@@ -56,12 +56,12 @@ Diseñadas para adaptarse a cualquier tipo de catálogo, desde colecciones peque
   
 | Vista | Modo Blanco | Modo Gris | Modo Oscuro | Modo Colorido |
 | :--- | :--- | :--- | :--- | :--- |
-| **🖼️ Interfaz principal** | IMG | IMG | IMG |  [IMG](https://github.com/AxlZamr/RetroEnhanced/blob/master/screenshots/imagen.png) | 
-| **📋  Lista detallada** | IMG | IMG | IMG |  [IMG](https://github.com/AxlZamr/RetroEnhanced/blob/master/screenshots/imagen.png) | 
-| **🕹️ Lista en cajas** | IMG | IMG | IMG |  [IMG](https://github.com/AxlZamr/RetroEnhanced/blob/master/screenshots/imagen.png) | 
-| **🔳 Lista en cuadricula** | IMG | IMG | IMG |  [IMG](https://github.com/AxlZamr/RetroEnhanced/blob/master/screenshots/imagen.png) | 
-| **💎 Lista en tiles** | IMG | IMG | IMG |  [IMG](https://github.com/AxlZamr/RetroEnhanced/blob/master/screenshots/imagen.png) | 
-| **🎮 Lista en cajas verticales** | IMG | IMG | IMG |  [IMG](https://github.com/AxlZamr/RetroEnhanced/blob/master/screenshots/imagen.png) | 
+| **🖼️ Interfaz principal** | ![IMG](screenshots/Interfaz-en-Claro/white-menu.png)  | ![IMG](screenshots/Interfaz-en-Gris/gray-menu.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-menu.png) |  ![IMG](screenshots/Interfaz-en-Colorido/colorful-menu.png) | 
+| **📋  Lista detallada** | ![IMG](screenshots/Interfaz-en-Claro/white-detallado.png) | ![IMG](screenshots/Interfaz-en-Gris/gray-detallado.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-detallado.png) | ![IMG](screenshots/Interfaz-en-Colorido/colorful-detallado.png) | 
+| **🕹️ Lista en cajas** | ![IMG](screenshots/Interfaz-en-Claro/white-cajas.png)| ![IMG](screenshots/Interfaz-en-Gris/gray-cajas.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-cajas.png) |  ![IMG](screenshots/Interfaz-en-Colorido/colorful-cajas.png) | 
+| **🔳 Lista en cuadricula** | ![IMG](screenshots/Interfaz-en-Claro/white-cuadricula.png) | ![IMG](screenshots/Interfaz-en-Gris/gray-cuadricula.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-cuadricula.png) |  ![IMG](screenshots/Interfaz-en-Colorido/colorful-cuadricula.png) | 
+| **💎 Lista en tiles** | ![IMG](screenshots/Interfaz-en-Claro/white-tiles.png) | ![IMG](screenshots/Interfaz-en-Gris/gray-tiles.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-tiles.png) |  ![IMG](screenshots/Interfaz-en-Colorido/colorful-tiles.png) | 
+| **🎮 Lista en cajas verticales** | ![IMG](screenshots/Interfaz-en-Claro/white-cajas-verticales.png) | ![IMG](screenshots/Interfaz-en-Gris/gray-cajas-verticales.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-cajas-verticales.png) | ![IMG](screenshots/Interfaz-en-Colorido/colorful-cajas-verticales.png) | 
 </p>
 
 ---
@@ -109,16 +109,21 @@ Con el uso de los shaders que se inluyen en el paquete `shaders-retroenhanced.zi
 ### Comparación 1: Pixel Art (SNES)
 </p>
 
+| Antes | Despues |
+| :--- | :--- |
+| ![IMG](screenshots/Shaders-SNES/antes.png) | ![IMG](screenshots/Shaders-SNES/despues.png) |
+
 <p align="center">
   <em>Izquierda: Resolución Nativa. Derecha: RetroEnhanced (Corrección de perspectiva + FXAA + Scanlines).</em>
 </p>
 
-| Antes | Despues |
-| :--- | :--- |
-| [IMG](https://github.com/AxlZamr/RetroEnhanced/blob/master/screenshots/imagen.png) | [IMG](https://github.com/AxlZamr/RetroEnhanced/blob/master/screenshots/imagen.png) |
-
 
 ### Comparación 2: Primeros 3D (PS1)
+
+| Antes | Despues |
+| :--- | :--- |
+| ![IMG](screenshots/Shaders-PSX/antes.png) | ![IMG](screenshots/Shaders-PSX/despues.png) |
+
 </p>
 
 <p align="center">
@@ -129,22 +134,17 @@ Con el uso de los shaders que se inluyen en el paquete `shaders-retroenhanced.zi
 </p>
 
 
-| Antes | Despues |
-| :--- | :--- |
-| [IMG](https://github.com/AxlZamr/RetroEnhanced/blob/master/screenshots/imagen.png) | [IMG](https://github.com/AxlZamr/RetroEnhanced/blob/master/screenshots/imagen.png) |
-
-
 ### Comparación 3: Consolas portatiles (GBC)
 </p>
+
+
+| Antes | Despues |
+| :--- | :--- |
+| ![IMG](screenshots/Shaders-GBC/antes.png) | ![IMG](screenshots/Shaders-GBC/despues.png) |
 
 <p align="center">
   <em>Izquierda: Resolución Nativa. Derecha: RetroEnhanced (Corrección de perspectiva + FXAA + Scanlines).</em>
 </p>
-
-| Antes | Despues |
-| :--- | :--- |
-| [IMG](https://github.com/AxlZamr/RetroEnhanced/blob/master/screenshots/imagen.png) | [IMG](https://github.com/AxlZamr/RetroEnhanced/blob/master/screenshots/imagen.png) |
-
 
 
 ---
