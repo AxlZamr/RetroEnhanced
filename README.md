@@ -1,11 +1,11 @@
 ![Logo](screenshots/clearlogo.png) 
 
-[![Version](https://img.shields.io/badge/4.3.0-s?style=for-the-badge&logo=github&logoColor=ffffff&label=Versi%C3%B3n%20de%20RetroEnhanced&color=809CC9)
-](https://github.com/tu-usuario/retroenhanced/releases)
 [![Youtube](https://img.shields.io/badge/Canal%20de%20Youtube-yt?style=for-the-badge&logo=youtube&logoColor=ffffff&label=Subscribirse%20a&color=FF0000)
 ](https://youtube.com/@axl_zamr)
 [![Discord](https://img.shields.io/badge/Comunidad%20de%20Discord-Unirse?style=for-the-badge&logo=discord&logoColor=ffffff&label=Unirse%20a&color=5865F2)
 ](https://discord.gg/aNfr96shm)
+[![Version](https://img.shields.io/badge/4.3.0-s?logo=github&logoColor=ffffff&label=Versi%C3%B3n&color=809CC9)
+](https://github.com/tu-usuario/retroenhanced/releases)
 
 > Dale una nueva vida a tus clásicos. **RetroEnhanced** es una suite de herramientas de post-procesamiento para emuladores que mejora la calidad visual de los juegos retro utilizando algoritmos modernos de escalado y filtros avanzados.
 
