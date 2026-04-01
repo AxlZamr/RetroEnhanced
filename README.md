@@ -102,7 +102,7 @@ Inspirado en la modularidad de **[RetroFix]([#-sobre-retroenhanced](https://gith
 ---
 
 ## Galería (Demostración Visual)
-Con el uso de los shaders que se inluyen en el paquete `shaders-retroenhanced.zip` desde la página de [Releases](https://github.com/tu-usuario/retroenhanced/releases).
+Con el uso de los shaders que se inluyen en el paquete `shaders-retroenhanced.zip` desde la página de [Releases](https://github.com/AxlZamr/RetroEnhanced/releases).
 
 <p align="center">
   
@@ -186,7 +186,7 @@ Actualmente, RetroEnhanced se distribuye como un paquete que se aplica a una vez
 
 ### Método Retrobat: Instalación Manual
 
-1.  Descarga la última versión de `retroenhanced-for-retrobat.zip` desde la página de [Releases](https://github.com/tu-usuario/retroenhanced/releases).
+1.  Descarga la última versión de `retroenhanced-for-retrobat.zip` desde la página de [Releases](https://github.com/AxlZamr/RetroEnhanced/releases).
 2.  Copia todos los archivos dentro del zip
 3.  Y pegalos en la carpeta raiz de RetroBat
 4.  Y listo, eres libre de usarlo y disfrutar de este proyecto.
