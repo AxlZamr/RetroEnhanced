@@ -19,7 +19,7 @@
     * [Galería (Demostración Visual)](#galería-demostración-visual)
 * [ ✨ Características Principales](#-características-principales)
 * [💻 Requisitos del Sistema](#-requisitos-del-sistema)
-* [🛠️ Instalación](#-instalacion)
+* [🛠️ Instalación](#%EF%B8%8F-instalación)
 * [🤝 Créditos y Referencias](#-creditos-y-referencias)
 
 ---
@@ -167,13 +167,16 @@ Con el uso de los shaders que se inluyen en el paquete `shaders-retroenhanced.zi
 ## 💻 Requisitos del Sistema
 
 ### Mínimos
-* **SO:** Windows 10/11 (64-bit) o Linux (con soporte Vulkan/OpenGL moderno).
-* **GPU:** Gráficos integrados Intel HD 620 o AMD Vega 8 (Soporte Shader Model 5.0).
+* **SO:** Windows 7/8/10/11 (64-bit) o Linux-Batocera (con soporte Vulkan/OpenGL moderno).
+* **CPU:** Procesador con al menos 4 nucleos y 4 hilos de preferencia
+* **GPU:** Gráficos integrados Intel HD 620 o AMD Vega (Soporte Shader Model 5.0).
 * **API:** Vulkan 1.1 (Recomendado) u OpenGL 4.5.
 
 ### Recomendados
 * **GPU:** NVIDIA GTX 1060 / AMD RX 580 o superior.
 * **Pantalla:** Monitor 1440p o 4K para apreciar el escalado de alta resolución.
+
+Ideal para jugar juegos de ps2, wii, u otro tipo exigente con los shaders sin ningun problema, tirón o error visual.
 
 ---
 
