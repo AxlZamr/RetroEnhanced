@@ -93,7 +93,7 @@ Inspirado en la modularidad de **[RetroFix]([#-sobre-retroenhanced](https://gith
     * **Europa:** Los logos de consolas seran todos de Europa.
 
 
-* **ENTRE MUCHOS OTRAS OPCIONES**
+* **Y OTRAS OPCIONES MÁS**
 
 
 > [!TIP]
