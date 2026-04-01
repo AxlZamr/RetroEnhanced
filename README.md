@@ -54,14 +54,14 @@ Diseñadas para adaptarse a cualquier tipo de catálogo, desde colecciones peque
 
 <p align="center">
   
-| Vista | Modo Blanco | Modo Gris | Modo Oscuro | Modo Colorido |
-| :--- | :--- | :--- | :--- | :--- |
-| **🖼️ Interfaz principal** | ![IMG](screenshots/Interfaz-en-Claro/white-menu.png)  | ![IMG](screenshots/Interfaz-en-Gris/gray-menu.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-menu.png) |  ![IMG](screenshots/Interfaz-en-Colorido/colorful-menu.png) | 
-| **📋  Lista detallada** | ![IMG](screenshots/Interfaz-en-Claro/white-detallado.png) | ![IMG](screenshots/Interfaz-en-Gris/gray-detallado.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-detallado.png) | ![IMG](screenshots/Interfaz-en-Colorido/colorful-detallado.png) | 
-| **🕹️ Lista en cajas** | ![IMG](screenshots/Interfaz-en-Claro/white-cajas.png)| ![IMG](screenshots/Interfaz-en-Gris/gray-cajas.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-cajas.png) |  ![IMG](screenshots/Interfaz-en-Colorido/colorful-cajas.png) | 
-| **🔳 Lista en cuadricula** | ![IMG](screenshots/Interfaz-en-Claro/white-cuadricula.png) | ![IMG](screenshots/Interfaz-en-Gris/gray-cuadricula.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-cuadricula.png) |  ![IMG](screenshots/Interfaz-en-Colorido/colorful-cuadricula.png) | 
-| **💎 Lista en tiles** | ![IMG](screenshots/Interfaz-en-Claro/white-tiles.png) | ![IMG](screenshots/Interfaz-en-Gris/gray-tiles.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-tiles.png) |  ![IMG](screenshots/Interfaz-en-Colorido/colorful-tiles.png) | 
-| **🎮 Lista en cajas verticales** | ![IMG](screenshots/Interfaz-en-Claro/white-cajas-verticales.png) | ![IMG](screenshots/Interfaz-en-Gris/gray-cajas-verticales.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-cajas-verticales.png) | ![IMG](screenshots/Interfaz-en-Colorido/colorful-cajas-verticales.png) | 
+| Modo Gris | Modo Oscuro | Modo Blanco | Modo Colorido |
+| :--- | :--- | :--- | :--- |
+| ![IMG](screenshots/Interfaz-en-Gris/gray-menu.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-menu.png) | ![IMG](screenshots/Interfaz-en-Claro/white-menu.png)  |  ![IMG](screenshots/Interfaz-en-Colorido/colorful-menu.png) | 
+| ![IMG](screenshots/Interfaz-en-Gris/gray-detallado.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-detallado.png) | ![IMG](screenshots/Interfaz-en-Claro/white-detallado.png) | ![IMG](screenshots/Interfaz-en-Colorido/colorful-detallado.png) | 
+| ![IMG](screenshots/Interfaz-en-Gris/gray-cajas.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-cajas.png) | ![IMG](screenshots/Interfaz-en-Claro/white-cajas.png)|  ![IMG](screenshots/Interfaz-en-Colorido/colorful-cajas.png) | 
+| ![IMG](screenshots/Interfaz-en-Gris/gray-cuadricula.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-cuadricula.png) | ![IMG](screenshots/Interfaz-en-Claro/white-cuadricula.png) |  ![IMG](screenshots/Interfaz-en-Colorido/colorful-cuadricula.png) | 
+ | ![IMG](screenshots/Interfaz-en-Gris/gray-tiles.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-tiles.png) | ![IMG](screenshots/Interfaz-en-Claro/white-tiles.png)|  ![IMG](screenshots/Interfaz-en-Colorido/colorful-tiles.png) | 
+| ![IMG](screenshots/Interfaz-en-Gris/gray-cajas-verticales.png)  | ![IMG](screenshots/Interfaz-en-Oscuro/dark-cajas-verticales.png) | ![IMG](screenshots/Interfaz-en-Claro/white-cajas-verticales.png) | ![IMG](screenshots/Interfaz-en-Colorido/colorful-cajas-verticales.png) | 
 </p>
 
 ---
